@@ -27,3 +27,8 @@ SSD
 NCC
 ![WhatsApp3 Image 2024-04-18 at 17 02 48_c2d80b6a](https://github.com/Shehab-Hegab/CV-Task-3/assets/137138481/2f69a9a9-fc95-423d-b2ce-5b7ee602511f)
 
+
+##
+Links
+
+https://xcdskd.readthedocs.io/en/latest/cross_correlation/cross_correlation_coefficient.html
