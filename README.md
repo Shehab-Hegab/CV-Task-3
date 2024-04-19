@@ -29,6 +29,13 @@ NCC
 
 
 ##
+SSD 
+
+![WhatsApp Image 2024-04-18 at 22 00 30_b952089e](https://github.com/sbme-tutorials/final_project-database_s23_icu16/assets/137138481/d99c4821-eb63-49ae-b113-01169d4316cd)
+
+
+
+##
 Links
 
 https://xcdskd.readthedocs.io/en/latest/cross_correlation/cross_correlation_coefficient.html
